@@ -1,0 +1,13 @@
+{
+    "name": "dhara.prajapati/dhara_package",
+    "description": "This is first demo package.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "packageDhara\\HelloDharaPackage\\": "src/"
+        }
+    }
+}
